@@ -1,2 +1,1 @@
-# Simulating the Repression-Dissent Nexus with LLM-based Multi-Agent Systems
-
+# Simulating the Repression-Dissent Nexus with Multi-Agent LLMs
