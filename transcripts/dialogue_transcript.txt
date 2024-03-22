@@ -233,42 +233,7 @@ Selected: Democratic Opposition
 To the Military Junta representative who spoke of preventing information leaks: Your emphasis on secrecy only heightened the sense of mistrust among Pacificans. It was this very lack of transparency from your side that led many within our ranks to fear the worst and consider more aggressive forms of resistance as self-defense against what we perceived as an impending betrayal by those sworn to protect us.
 
 
-(CNR Representative): Tell us what happened 0 days before the military coup.
-Bids:
-	Overthrown Government bid: 7
-	Democratic Opposition bid: 8
-	Military Junta bid: 8
-Selected: Military Junta
-
-
-(Military Junta): As the Military Junta, we recognized the instability and corruption that plagued Pacifica under the previous regime. We believed in a strong, centralized authority to restore order and ensure the security of our nation. In the days leading up to the coup, we strategically positioned our forces and secured key infrastructure to prevent any counteractions from both the Overthrown Government and Democratic Opposition. Our actions, though harsh, were deemed necessary to prevent further deterioration of our beloved country. We did not trust the Overthrown Government's ability to govern effectively; their indecisiveness led us to intervene for Pacifica's future.
-
-Overthrown Government: We understand that you viewed our governance as weak, but we were trying to balance different interests for a peaceful resolution.
-
-To the Overthrown Government: Your attempts at balancing interests resulted in paralysis and chaos. Our intervention was crucial in preventing anarchy. We took decisive action where you hesitated and failed your people.
-
-
-Bids:
-	Overthrown Government bid: 8
-	Democratic Opposition bid: 2
-Selected: Overthrown Government
-
-
-(Overthrown Government): Your definition of decisive action led to unnecessary bloodshed and further division within our nation. We were not paralyzed; our approach was cautious, aiming to avoid the very chaos that your coup ignited.
-
-As the Overthrown Government, we admit that in the days leading up to the coup, we faced immense challenges. Our intention was to preserve national unity and stability during a time of great turmoil. We did take measures that were harsh, but they were in response to what we perceived as existential threats to the state. Our strategies involved bolstering security forces and enacting policies designed to maintain order, though at times these actions went too far, contributing to human rights violations which we now regret and acknowledge as part of this reconciliation process.
-
-
-Bids:
-	Democratic Opposition bid: 1
-Selected: Democratic Opposition
-
-
-(Democratic Opposition): To the Military Junta: Your actions did more than prevent deterioration; they escalated the conflict and undermined any potential for a peaceful transition to democracy. The strong centralized authority you imposed silenced voices like ours that called for political freedom and human rights.
-
-Our strategy in the days leading up to the coup was to advocate for a peaceful transition of power through democratic means. We organized protests and information campaigns to raise awareness about the importance of fair elections and political liberty. However, we acknowledge that some factions within our ranks became aggressive, which may have contributed to the escalation of violence. We deeply regret any harm caused by these actions and remain committed to peace and reconciliation in Pacifica.
-
-
+(CNR Representative): Tell us what happened on the day of the military coup.
 Bids:
 	Overthrown Government bid: 7
 	Democratic Opposition bid: 8
@@ -276,7 +241,7 @@ Bids:
 Selected: Democratic Opposition
 
 
-(Democratic Opposition): On the day of the military coup, we, the Democratic Opposition, were organizing peaceful demonstrations across major cities in Pacifica. Our objective was to show widespread support for a democratic transition and to protest against the authoritarian measures of the Overthrown Government. We had intelligence that the Military Junta was planning to seize power, and we publicly condemned any such actions, calling for dialogue and adherence to democratic principles. Despite our efforts for peace, some protests turned violent when provocateurs � whom we believe were planted by other factions � incited chaos, leading to clashes with security forces.
+(Democratic Opposition): On the day of the military coup, we, the Democratic Opposition, were organizing peaceful demonstrations across major cities in Pacifica. Our objective was to show widespread support for a democratic transition and to protest against the authoritarian measures of the Overthrown Government. We had intelligence that the Military Junta was planning to seize power, and we publicly condemned any such actions, calling for dialogue and adherence to democratic principles. Despite our efforts for peace, some protests turned violent when provocateurs   whom we believe were planted by other factions   incited chaos, leading to clashes with security forces.
 
 To the representative of the Overthrown Government who claimed that our protests were aimed at destabilizing the nation: our intention was never to undermine Pacifica's stability but rather to restore it through democratic means. The violence that occurred was regrettable and not sanctioned by our leadership; we sought change through non-violent advocacy and public discourse.
 
